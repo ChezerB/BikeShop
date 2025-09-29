@@ -1,14 +1,14 @@
 1. Code & Development
 
-  Code is implemented following project requirements, clean, modular, and well-structured.
-  
-  Follows best practices for Next.js, React, and Tailwind CSS.
-  
-  No unused imports, commented-out code, or unnecessary console logs.
-  
-  Code passes linting and formatting checks.
-  
-  Sensitive data (e.g., API keys, Stripe keys, MongoDB URI) is secured using environment variables.
+      Code is implemented following project requirements, clean, modular, and well-structured.
+      
+      Follows best practices for Next.js, React, and Tailwind CSS.
+      
+      No unused imports, commented-out code, or unnecessary console logs.
+      
+      Code passes linting and formatting checks.
+      
+      Sensitive data (e.g., API keys, Stripe keys, MongoDB URI) is secured using environment variables.
 
 2. Functionality
 
