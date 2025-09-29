@@ -1,4 +1,4 @@
-  1. Code & Development
+1. Code & Development
 
 Code is implemented following project requirements, clean, modular, and well-structured.
 
