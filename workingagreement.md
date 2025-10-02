@@ -1,5 +1,18 @@
 # Working Agreement
 
+### Purpose
+
+
+This Working Agreement defines the expectations, collaboration guidelines, and responsibilities of the our team
+
+### General Principles
+
+Commitment to Agile Values – We follow Scrum principles and adapt based on retrospectives.
+Collaboration – All team members share any challenges they encounter, and we assist as best as possible
+Respect – All members must respect others' opinions
+
+
+
 ### Communication
 
 Method of communication: We will be using discord for the team communication, and MS Teams/Outlook if we need to communicate with the professor.
@@ -26,3 +39,13 @@ All members will follow their given roles and responsibilites. If any team membe
 ### Consequences
 
 If a member is not respectful, does not contribute to their expected responsibilites, or miss multiple meetings without providing a valid reason, they will risk being reported to the instructor.
+
+### Improvement
+
+The Working Agreement will be reviewed every month and updated based on anyconcerns from team members
+
+### Acknowledgment
+By agreeing to this Working Agreement, each team member commits to following these guidelines.
+
+
+###### Team Members: Adam Rogers,
