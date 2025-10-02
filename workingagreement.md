@@ -48,4 +48,5 @@ The Working Agreement will be reviewed every month and updated based on anyconce
 By agreeing to this Working Agreement, each team member commits to following these guidelines.
 
 
-###### Team Members: Adam Rogers, Ali Khoshnoudian
+###### Team Members: Adam Rogers, Ali Khoshnoudian, Chezer Banagua
+
