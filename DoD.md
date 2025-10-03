@@ -1,0 +1,15 @@
+Code Quality: Code follows agreed style guides for Next.js, React, and Tailwind CSS, ensuring readability, maintainability, and modularity. Components are well-structured, reusable, and follow separation of concerns. No unused imports, commented-out code, or unnecessary console logs remain. Code passes linting and formatting checks consistently. Sensitive information (e.g., API keys, Stripe keys, MongoDB URI) is securely stored using environment variables, preventing exposure in the codebase.
+
+Version Control: All changes are properly committed with clear, descriptive messages, pushed to the repository, and linked to the corresponding issue or task. Branches are managed effectively, with merges to the main branch conducted without conflicts. Version history is maintained for traceability and accountability, enabling easy rollback if needed.
+
+Functionality: All acceptance criteria defined in the user stories are fully met. Features function correctly across supported devices and browsers, including desktop, tablet, and mobile. Users can browse the product catalog, add items to a cart, complete checkout, book maintenance services or test rides, and contact the shop seamlessly. API endpoints are implemented, tested, and reliably return correct responses. No critical bugs or broken flows are present.
+
+Testing: Unit tests exist for all core logic where applicable, validating functionality in isolation. Integration tests ensure API endpoints and frontend-backend communication work correctly. Critical user flows, including catalog browsing, adding items to the cart, completing purchases, and booking services, are manually tested to guarantee smooth end-to-end functionality. High-severity defects are resolved before deployment.
+
+Security & Performance: Code is reviewed for potential vulnerabilities, such as insecure data handling or injection risks. Payment processing through Stripe is tested in sandbox mode and secured. Database queries and image handling (MongoDB and Cloudinary) are optimized for performance and reliability. Website responsiveness, loading times, and overall user experience are monitored to maintain high performance standards.
+
+Documentation: Inline comments clarify complex logic or important components. README or project documentation is updated with setup instructions, environment variable configurations, dependencies, and detailed API route descriptions. Important workflows, such as checkout and booking processes, are documented to aid future maintenance and developer onboarding.
+
+Review & Approval: All code has undergone peer review, with feedback incorporated before merging. Team members confirm functionality, usability, and adherence to project standards. Stakeholders or Product Owners review features and approve them as meeting project requirements and expectations.
+
+Deployment Readiness: The website is deployed successfully on Vercel, with all environment variables correctly configured. End-to-end verification confirms that the live application functions as intended. Deployment process is documented to ensure repeatable and reliable updates in future iterations.
