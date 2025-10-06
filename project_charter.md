@@ -40,15 +40,15 @@ Responsive and modern design accessible on all devices
 
 3. Milestones 
 
-1. Decide on technologies for front-end (Next.js, React, Tailwind CSS), back-end (FastAPI), database (MongoDB), and services (Stripe for payments, Cloudinary for media, Vercel for deployment). Set up the project repository with proper branch structure and initial configuration. 
+Decide on technologies for front-end (Next.js, React, Tailwind CSS), back-end (FastAPI), database (MongoDB), and services (Stripe for payments, Cloudinary for media, Vercel for deployment). Set up the project repository with proper branch structure and initial configuration. 
 
-2. Plan and sketch UI/UX on Figma for key pages such as Home, Product Catalog, Product Details, Booking, and Contact. Create mockups and component hierarchy to guide development. 
+Plan and sketch UI/UX on Figma for key pages such as Home, Product Catalog, Product Details, Booking, and Contact. Create mockups and component hierarchy to guide development. 
 
-3. Design API endpoints, database schema, and data flow. Outline how products, orders, and bookings will be stored and retrieved, ensuring security and scalability. 
+Design API endpoints, database schema, and data flow. Outline how products, orders, and bookings will be stored and retrieved, ensuring security and scalability. 
 
-4. Determine how Stripe payments will work and how Cloudinary will store and serve product images. Document secure handling of environment variables and credentials. 
+Determine how Stripe payments will work and how Cloudinary will store and serve product images. Document secure handling of environment variables and credentials. 
 
-5. Outline how users will book maintenance services and test rides. Define deployment steps on Vercel and how end-to-end testing will be conducted once development starts. 
+Outline how users will book maintenance services and test rides. Define deployment steps on Vercel and how end-to-end testing will be conducted once development starts. 
 
 3.1 Work Breakdown Structure 
 
