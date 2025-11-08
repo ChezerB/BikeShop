@@ -40,7 +40,12 @@ A fully functional e-commerce website will be up and running by the end of the t
 ![Work Breakdown Structure](WBS.png)
 
 ### 3.2 Requirements Traceability Matrix
-_To be added later._
+| Req ID | Requirement | Del ID | Deliverable | Owner | Status |
+|----------|----------|----------|----------|----------|----------|
+| REQ01 | Users can register and log in | DEL01 | User, Authentication System | Developers | done |
+| REQ02 | Users can browse bike collection with filters | DEL02 | Bike collection | Developers | done |
+| REQ03 | Users can add bikes to shopping cart | DEL03 | Shopping Cart | Developers | in progress |
+| REQ04 | Users can place an order and play | DEL04 | Order and Payment | Developers | in progress |
 
 ---
 
