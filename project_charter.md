@@ -37,7 +37,7 @@ A fully functional e-commerce website will be up and running by the end of the t
 - Outline how users will book maintenance services and test rides. Define deployment steps on Vercel and how end-to-end testing will be conducted once development starts.  
 
 ### 3.1 Work Breakdown Structure
-_To be added later._
+![Work Breakdown Structure](WBS.png)
 
 ### 3.2 Requirements Traceability Matrix
 _To be added later._
