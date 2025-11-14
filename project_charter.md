@@ -60,7 +60,7 @@ A fully functional e-commerce website will be up and running by the end of the t
 ### 4.1 Gantt Chart
 
 
-![Gantt Chart](ganttchart.pdf)
+![Gantt Chart](Online Gantt 20251114-1.png)
 
 
 ---
