@@ -58,7 +58,7 @@ A fully functional e-commerce website will be up and running by the end of the t
 - Admin panel for managing products and services  
 
 ### 4.1 Gantt Chart
-_To be added later._
+![Gantt Chart](ganttchart.pdf)
 
 ---
 
