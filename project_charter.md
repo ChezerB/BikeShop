@@ -60,6 +60,8 @@ A fully functional e-commerce website will be up and running by the end of the t
 ### 4.1 Gantt Chart
 ![Gantt Chart](gantt.png)
 
+For this mockup, Nov 02-09 is week 1, 09-16 is week 2, 16-23 is week 3, 23-30 is week 4, 30-07 is week 5, and 07-14 is week 6
+
 ---
 
 ## 5. Preliminary Budget
