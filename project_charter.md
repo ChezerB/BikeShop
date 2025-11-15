@@ -65,7 +65,59 @@ For this mockup, Nov 02-09 is week 1, 09-16 is week 2, 16-23 is week 3, 23-30 is
 ---
 
 ## 5. Preliminary Budget
-_To be added later._
+### 5.1 Personnel Cost Per Sprint
+
+| **Role**             | **Rate**            | **Allocation** | **Burn Rate (CAD)**        | **Sprint Days**         | **Sprint Cost**       |
+| -------------------- | ------------------- | ------------- | ------------------------    |  ---------------------: | ---------------------:|                        
+| Product Owner        |             $300/day |            50% |              **$150/day** |             7           |            $1,050    |             
+| Back End Developer   |             $200/day |           100% |              **$200/day** |             7           |            $1,400    |          
+| Front End Developer  |             $150/day |           100% |              **$150/day** |               7         |            $1,050    |             
+| **Total**            |                    — |              — |              **$500/day** |              7          |            $3,500    |              
+
+
+
+### 5.2 Total Personnel Cost
+
+Total Sprints = 6
+Cost per Sprint = $3,500
+
+**Total Personnel Cost** = $3,500 × 6 = $21,000 CAD
+
+### 5.3 Fixed Costs (6 Weeks = 1.5 months)
+
+| Item                     | Qtd |   Cost/Item | Notes             |  Total Cost |
+| ------------------------ | --: | ----------: | ----------------- | ----------: |
+| Hosting                  |   1 | $4.99/month | 4.99 × 1.5 months |       $7.49 |
+| Cloud Database           |   1 |   $10/month | 10 × 1.5 months   |      $15.00 |
+| Deployment (Vercel)      |   1 |   $20/month | 20 × 1.5 months   |      $30.00 |
+| Design Tools (Figma)     |   1 |   $12/month | 12 × 1.5 months   |      $18.00 |
+| Project Management Tools |   1 |   $12/month | 12 × 1.5 months   |      $18.00 |
+| Domain                   |   1 | $12.99/year | Full year counted |      $12.99 |
+| **Total Fixed Costs**    |   — |           — | —                 | **$101.48** |
+
+
+
+
+### 5.4 Contigency
+
+Contingency rate = 10%
+
+Contingency = 10% × (Total Personnel + Fixed Costs)
+Total Personnel = $21,000
+Fixed Costs = $101.48
+Total Base Cost = $21,101.48
+
+Contingency = 0.10 × 21,101.48 = $2,110.15 CAD
+
+
+### 5.5 Total Estimated Cost
+
+| Category             |         Cost (CAD) |
+| -------------------- | -----------------: |
+| Total Personnel Cost |         $21,000.00 |
+| Total Fixed Costs    |            $101.48 |
+| Contingency (10%)    |          $2,110.15 |
+| **Grand Total**      | **$23,211.63 CAD** |
 
 ---
 
