@@ -129,7 +129,15 @@ Contingency = 0.10 × 21,101.48 = $2,110.15 CAD
 
 ### 6.2 Communications Plan
 
----
+## Communications Plan
+
+| Stakeholder Group                        | Communication Method        | Frequency           | Purpose / Content                                  | Owner               |
+|-----------------------------------------|----------------------------|-------------------|--------------------------------------------------|-------------------|
+| Project Owner / Project Sponsors         | Email / Zoom Meetings       | Weekly            | Project status updates, milestones, budget, key risks | Project Manager    |
+| Team Lead (High Influence, Low Interest)| Brief Reports / Dashboards  | Bi-weekly         | Summary of progress, high-level issues           | Project Manager    |
+| Developers / Customers (High Interest, Low Influence) | Slack / Email / Demo Sessions | Weekly / As Needed | Development updates, feature releases, testing feedback | Project Manager / Team Leads |
+| Payment, Shipping, Repair Services (Low Influence, Low Interest) | Email / Notifications | Monthly | System integrations, service updates, downtime notices | Project Manager    |
+
 
 ## 7. Risks, Assumptions, and Constraints
 _To be added later._
