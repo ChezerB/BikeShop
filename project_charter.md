@@ -134,7 +134,7 @@ Contingency = 0.10 × 21,101.48 = $2,110.15 CAD
 | Stakeholder Group                        | Channel        | Schedule           | Purpose / Content                                  | Owner               |
 |-----------------------------------------|----------------------------|-------------------|--------------------------------------------------|-------------------|
 | Project Owner, Project Sponsors         | Email / Zoom Meetings       | Weekly            | Project status updates, milestones, budget, key risks | Project Manager    |
-| Team Lead  |     Email / Zoom Meetings    | Bi-weekly |      |       Summary of progress, high-level issues    | Project Manager    |
+| Team Lead  |     Email / Zoom Meetings    | Bi-weekly |  Summary of progress, high-level issues    |       Project Manager    |     |
 | Developers, Customers  | Slack / Email / Demo Sessions | Weekly / As Needed | Development updates, feature releases, testing feedback | Project Manager / Team Leads |
 | Payment, Shipping, Repair Services | Email / Notifications | Monthly | System integrations, service updates, downtime notices | Project Manager    |
 
