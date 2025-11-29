@@ -140,4 +140,20 @@ Contingency = 0.10 × 21,101.48 = $2,110.15 CAD
 
 
 ## 7. Risks, Assumptions, and Constraints
+
+Potential Risks include:
+
+Stripe payment integration fails or API changes unexpectedly
+
+Security breach or customer data leak (e.g., credentials, payment data)
+
+Delays in UI/UX design or incomplete mockups on Figma cause timeline slips
+
+MongoDB service temporarily unavailable
+
+Deployment issues on Vercel
+
+Miscommunication between developers and stakeholders
+
+Matrix:
 ![Risk Management Matrix](riskmanagement.png)
