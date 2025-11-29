@@ -140,4 +140,4 @@ Contingency = 0.10 × 21,101.48 = $2,110.15 CAD
 
 
 ## 7. Risks, Assumptions, and Constraints
-_To be added later._
+![Risk Management Matrix](riskmanagement.png)
