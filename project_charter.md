@@ -126,8 +126,7 @@ Contingency = 0.10 × 21,101.48 = $2,110.15 CAD
 
 
 ### 6.1 Stakeholders Analysis Matrix
-![Stakeholder Analysis Matrix](SAM.png)
-
+![Stakeholders Analysis Matrix](SAM.png) 
 ### 6.2 Communications Plan
 
 ## Communications Plan
