@@ -8,13 +8,14 @@ The main goal is to provide a digital platform that enhances customer experience
 
 **Date:** October 6th, 2025  
 **Current Version:** 1.0  
-**Project Manager (and Sponsor):** Ali Khoshnoudian  
+**Project Manager (and Sponsor):** Adam Rogers, Chezer Banagua
+
 
 ---
 
 ## 2. Overview
 
-Ali is planning to develop his own website that will serve as an online marketplace and service booking system for both customers and the shop’s management. It will provide easy access to products, services, and promotions, improving customer satisfaction and sales efficiency.  
+Our team is planning to develop a website that will serve as an online marketplace and service booking system for both customers and the shop’s management. It will provide easy access to products, services, and promotions, improving customer satisfaction and sales efficiency.  
 
 ### 2.1 Objective
 
